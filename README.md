@@ -22,10 +22,10 @@ The course introduces parallel computing: how parallel hardware is organized, ho
 
 | # | Folder | Date | Topics |
 |:-:|--------|:----:|--------|
-| 1 | [`assignment1`](./assignment1) | Apr 2025 | Pipelining, cache hit/miss behaviour, memory hierarchy timing, measuring speedup and efficiency |
-| 2 | [`assignment2`](./assignment2) | May 2025 | Message passing with MPI (e.g. broadcast, send/receive, global maximum) |
-| 3 | [`assignment3`](./assignment3) | May 2025 | Shared-memory programming with pthreads (e.g. parallel binary search) |
-| 4 | [`assignment4`](./assignment4) | Jun 2025 | OpenMP matrix multiplication and a serial vs. parallel performance comparison |
+| 1 | [`Assignment1`](./Assignment1) | Apr 2025 | Pipelining, cache hit/miss behaviour, memory hierarchy timing, measuring speedup and efficiency |
+| 2 | [`Assignment2`](./Assignment2) | May 2025 | Message passing with MPI (e.g. broadcast, send/receive, global maximum) |
+| 3 | [`Assignment3`](./Assignment3) | May 2025 | Shared-memory programming with pthreads (e.g. parallel binary search) |
+| 4 | [`Assignment4`](./Assignment4) | Jun 2025 | OpenMP matrix multiplication and a serial vs. parallel performance comparison |
 
 <!-- Check that rows 2 and 3 match what is actually in those folders and adjust the topics if needed. -->
 
